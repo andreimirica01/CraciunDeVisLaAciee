@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 228.66 39.08"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="navbar-logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3704">
+      <stop
+         style="stop-color:#fbf61d;stop-opacity:1;"
+         offset="0"
+         id="stop3700" />
+      <stop
+         style="stop-color:#fbf61d;stop-opacity:0;"
+         offset="1"
+         id="stop3702" />
+    </linearGradient>
+    <rect
+       x="10.960562"
+       y="8.6928596"
+       width="209.95146"
+       height="22.299075"
+       id="rect1075" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3704"
+       id="linearGradient3706"
+       x1="10.460153"
+       y1="17.861129"
+       x2="176.39141"
+       y2="17.861129"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.2916994"
+     inkscape:cx="117.07014"
+     inkscape:cy="19.747909"
+     inkscape:window-width="1350"
+     inkscape:window-height="1000"
+     inkscape:window-x="606"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32" />
+  <style
+     id="style2">.cls-1{fill:#fed136;}</style>
+  <text
+     xml:space="preserve"
+     id="text1073"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1075);display:inline;opacity:0.794613;fill:#f6c804;fill-opacity:1;stroke:#000000;stroke-width:1.002;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     transform="matrix(1.2203977,0,0,2.8216827,-13.535149,-29.611941)"><tspan
+       x="10.960938"
+       y="22.595267"
+       id="tspan420">Crăciun de vis la ACIEE</tspan></text>
+</svg>
